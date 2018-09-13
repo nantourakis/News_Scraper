@@ -1,0 +1,60 @@
+
+ body {
+ 	width: 75%;
+	margin: 0 auto; 
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+ }
+ #saved{
+ 	background: white;
+ 	color: #FF4136;
+ }
+ .message{
+ 	    margin: 2px;
+    padding: 5px;
+    border: 1px solid;
+    border-radius: 22px;
+ }
+ .comment {
+  color: #0074D9;
+  background: white;
+ }
+ .delete {
+  color: #FF4136;
+  background: white;
+ }
+ h1{
+ 	text-align: center;
+ 	margin:20px;
+ }
+.save{
+ 	color: #0074D9;
+ 	background: white;
+}
+.nav{
+  background: #DDDDDD;
+}
+ul>li{
+	    margin-top: 4px;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+.nav-tabs>li>a{
+  color: black;
+}
+
+#burger{
+ animation: rotateOut 5s linear infinite;
+}
+ button:hover {
+ 	opacity: 0.5;
+ }
+main{
+  min-height: 500px;
+}
+
+.lines{
+border-bottom: 3px solid blue;
+background-color: #DDDDDD;
+}
