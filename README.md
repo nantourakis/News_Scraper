@@ -1,7 +1,7 @@
 # Bitcoin scraper
   
   
-BitCoin News Scaper is web application that scrapes news from coinDesk web site. 
+Bitcoin News Scaper is web application that scrapes news from Coin Desk's web site. 
 
 ## Technologies
 
